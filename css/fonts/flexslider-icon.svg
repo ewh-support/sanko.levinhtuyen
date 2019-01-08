@@ -1,0 +1,739 @@
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Công Ty TNHH Sanko Gakuen</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes">
+        <meta http-equiv="Content-Language" content="VN" />
+        <meta name="description" content="Trung Tâm Nhật Ngữ Sanko Việt Nam" />
+        <meta name="keywords" content="" />
+        <meta property="og:site_name" content="Công Ty TNHH Sanko Gakuen">
+        <meta property="og:url" name="og:url" content="http://www.nhatngusanko.com/css/fonts/flexslider-icon.svg" data-app>
+        <meta property="og:type" name="og:type" content="website" data-app>
+        <meta property="og:description" name="og:description" content="Trung Tâm Nhật Ngữ Sanko Việt Nam" data-app>
+        <meta property="og:title" name="og:title" content="Công Ty TNHH Sanko Gakuen" data-app>
+        <meta property="og:image" name="og:image" content="http://www.nhatngusanko.com/uploaded/Logo/anh-2.jpg" data-app>
+        <link rel="SHORTCUT ICON" href="../../favicon.png" />
+        <link rel="stylesheet" type="text/css" href="../swiper.min.css"/>
+
+        <link rel="stylesheet" type="text/css" href="../font-awesome-4.2.0/css/font-awesome.min.css"/>
+        <link rel="stylesheet" type="text/css" href="../style.css"/>
+        <link rel="stylesheet" type="text/css" href="../grid.css"/>
+
+        <link rel="stylesheet" type="text/css" href="../jquery.mmenu.all.css">
+
+        <script src="../../js/jquery-1.10.1.min.js"></script>
+        <script src="../../js/script.js"></script>
+        <script src="../../js/swiper.min.js"></script>
+        <script src="../../js/jquery.mmenu.min.all.js"></script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109232305-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109232305-1');
+</script>
+<script type='text/javascript'>window._sbzq||function(e){e._sbzq=[];var t=e._sbzq;t.push(["_setAccount",55900]);var n=e.location.protocol=="https:"?"https:":"http:";var r=document.createElement("script");r.type="text/javascript";r.async=true;r.src=n+"//static.subiz.com/public/js/loader.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)}(window);</script
+<script src="http://load.sumome.com/" data-sumo-site-id="ec68b2b58ec2d049ac07843570b5bdae48ffb6fe02763399ba015c0d6ea851b1" async="async"></script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '182612902599397');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=182612902599397&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+    </head>
+    <body>
+        <div id="page"> 
+           <div class="toppage hide-on-mobile">
+           	<div class="toppage-1">
+            	<div class="menutop">
+    <a href="http://www.nhatngusanko.com/cam-nhan-hoc-vien/" class="">Cảm nhận học viên</a>
+    <a href="http://www.nhatngusanko.com/thu-vien-1-2/" class="">Thư viện</a>
+    <a href="http://www.nhatngusanko.com/lien-he/" class="">Liên hệ</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>    
+           </div>
+        	<div class="header">
+            	<div class="grid" style="position:relative">
+            		<div class="logo" style="float:left"><a href="../../index.html"><img src="../../uploaded/Logo/anh-2.jpg" alt="Logo Sanko" style="max-width:100%; display:block; "  /></a></div>
+                    <div style="padding-left:123px;">
+                    <div class="flex-container flex-space-between ">
+                        <div class="cell-1-2 mobile-cell-1-1 tab-cell-1-1 pad-cell-1-1">
+                            <div class="companyname">TRUNG TÂM NHẬT NGỮ SANKO VIỆT NAM</div>
+                            <div class="addresscompany hide-on-tab hide-on-mobile">Lầu 3, Tòa Nhà Phụ Nữ, số 20, Nguyễn Đăng Giai, P.Thảo Điền, Q.2, TP.HCM</div>
+                        </div>
+                        <div class="box-btn-top hide-on-mobile cell-1-2 pad-cell-1-1 mobile-cell-1-1 tab-cell-1-1">
+                            <a href="mailto:sanko@sgi-edu.com" class="email">
+                                <i class="fa fa-envelope-o" aria-hidden="true"></i>Gửi mail liên hệ
+                            </a>
+                            <a href="tel:0903308962" class="hotline ">
+                                <i class="fa fa-phone"></i> 
+                                <span>Hotline</span>
+                                <span>0903308962</span>
+                            </a>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="c"></div>
+            </div>
+            
+            <div class="menubar">
+            	<div class="c"></div>
+            	<ul class="nav">
+                	<li class="mnumobile"><a href="flexslider-icon.svg#menu"><i class="fa fa-bars"></i></a></li>
+                    <li><a class="home" href="../../index.html"  class="">&nbsp;</a></li>
+                    <li class="mnumobile"><a href="flexslider-icon.svg#" id="showsearchmobile"><i class="fa fa-search"></i></a></li>
+                    
+<li class="  hidepad hide-on-tab hide-on-mobile"><a href="http://www.nhatngusanko.com/gioi-thieu/"  class="">Giới thiệu</a>
+    <ul class="">
+        <li class=""><a href="http://www.nhatngusanko.com/gioi-thieu-cong-ty/" >Giới thiệu công ty</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/gioi-thieu-trung-tam/" >Giới thiệu trung tâm</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/co-so-vat-chat-1/" >Cơ sở vật chất</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/" >Đội ngũ giáo viên và nhân viên</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/cam-nhan-hoc-vien/" >Cảm nhận học viên</a>
+        </li>
+    </ul>
+</li>
+<li class="  hidepad hide-on-tab hide-on-mobile"><a href="http://www.nhatngusanko.com/lich-khai-giang/"  class="">Lịch khai giảng</a>
+</li>
+<li class="   hide-on-tab hide-on-mobile"><a href="http://www.nhatngusanko.com/chuong-trinh-dao-tao-1/"  class="">Chương trình đào tạo</a>
+    <ul class="">
+        <li class=""><a href="http://www.nhatngusanko.com/tieng-nhat-can-ban/" >Tiếng Nhật căn bản</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/du-hoc-sinh/" >Du học sinh</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/xuat-khau-lao-dong/" >Tiếng Nhật cho trẻ em </a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/nhan-vien-van-phong/" >Luyện thi JLPT</a>
+        </li>
+    </ul>
+</li>
+<li class="  hidepad hide-on-tab hide-on-mobile"><a href="http://www.nhatngusanko.com/-1-2-3-4-5-6/"  class="">日系企業の皆様へ </a>
+    <ul class="">
+        <li class=""><a href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8/" >出張授業</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8-9/" >ベトナム語講座 </a>
+        </li>
+    </ul>
+</li>
+<li class="  hidepad hide-on-tab hide-on-mobile"><a href="http://www.nhatngusanko.com/tin-tuc-su-kien/"  class="">Tin tức sự kiện</a>
+    <ul class="">
+        <li class=""><a href="http://www.nhatngusanko.com/tuyen-dung-1/" >Du học Tokyo cùng SANKO</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/su-kien-1-2/" >Học Tiếng Nhật cùng SANKO</a>
+        </li>
+    </ul>
+</li>
+<li class="  hidepad hide-on-tab hide-on-mobile"><a href="http://www.nhatngusanko.com/kham-pha-nhat-ban/"  class="">Khám phá Nhật Bản</a>
+    <ul class="">
+        <li class=""><a href="http://www.nhatngusanko.com/van-hoa-nhat/" >Văn hóa Nhật Bản</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/thong-tin-nhat-ban/" >Thông tin Nhật Bản</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/bbigkho-tu-vungngu-phap-tieng-nhat/" ><b<<big>Kho từ vựng/ngữ pháp tiếng Nhật</a>
+        </li>
+    </ul>
+</li>
+<li class="   hide-on-tab hide-on-mobile"><a href="http://www.nhatngusanko.com/thu-vien-1-2/"  class="">Thư viện</a>
+    <ul class="">
+        <li class=""><a href="http://www.nhatngusanko.com/videos/" >Videos</a>
+        </li>
+        <li class=""><a href="http://www.nhatngusanko.com/hinh-anh/" >Hình ảnh</a>
+        </li>
+    </ul>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <li class="mnumobile hide-on-pc hide-on-tab hide-on-pad"><a href="mailto:sanko@sgi-edu.com"><i class="fa fa-envelope-o"></i></a></li>
+                    <li class="mnumobile hide-on-pc hide-on-tab hide-on-pad"><a href="tel:0903308962"><i class="fa fa-phone"></i></a></li>
+                </ul>
+            </div>
+            <div class="box-search-m">
+            	<div style="position:relative">
+                	<form action="http://www.nhatngusanko.com/search/" id="searchmobile" method="get">
+                		<input name="qr" type="text"><a href="flexslider-icon.svg#" onClick="$('#searchmobile').submit(); return false" class="fa fa-search"></a>
+                    </form>
+                </div>
+            </div>
+            <div class="c"></div>
+            <div class="main-sl">
+                <link rel="stylesheet" type="text/css" href="../flexslider.css">
+<script src="../../js/jquery.flexslider.js"></script>
+<div class="c-border">
+    <div class="box-slide">
+        <section class="slider">
+            <div class="flexslider" id="bigslideshow">
+              <ul class="slides">
+                <li>
+                     <a href="http://www.nhatngusanko.com/su-kien-1-2/khai-giang-khoa-hoc-thang-1-nam-2019.html" target=""><img src="../../uploaded/Baner/KHAI&#32;GIANG&#32;DAU&#32;NAM.png" alt="" width="100%"/></a>
+                 </li>
+                <li>
+                     <a href="https://iconicjob.vn/viec-lam-luong-cao?utm_source=Nhat-ngu-Sanko" target=""><img src="../../uploaded/Logo/Banner&#32;iconicJob.jpg" alt="Iconic" width="100%"/></a>
+                         <div class="des-slide">
+                             <div class="title">Iconic</div>
+                             <div class="intro-slide"></div>
+                             <div class="btn-slide">
+                                <a href="https://iconicjob.vn/viec-lam-luong-cao?utm_source=Nhat-ngu-Sanko">Chi tiết</a>
+                             </div>
+                         </div>
+                 </li>
+                <li>
+                     <a href="http://www.nhatngusanko.com/tin-tuc-su-kien/bbigchi-nhanh-moi-o-da-latbbig.html" target=""><img src="../../uploaded/_thumbs/banner&#32;fb&#32;da&#32;laTt.png" alt="" width="100%"/></a>
+                 </li>
+                <li>
+                     <a href="http://nhatngusanko.com/tieng-nhat-can-ban/lop-nhan-vien-cong-ty-aaa.html" target=""><img src="../../uploaded/Baner/banner&#32;LH&#32;dang&#32;web1.jpg" alt="" width="100%"/></a>
+                 </li>
+                <li>
+                     <a href="http://nhatngusanko.com/su-kien-1-2/chuong-trinh-uu-dai-dac-biet.html" target=""><img src="../../uploaded/Baner/44826833.jpg" alt="" width="100%"/></a>
+                 </li>
+              </ul>
+            </div>
+          </section>
+          
+          <script type="text/javascript">
+            $(function(){
+              $('#bigslideshow').flexslider({
+                animation: "fade",
+				slideshowSpeed: 5000,        
+				animationDuration: 600, 
+                start: function(slider){}
+              });
+            });
+          </script>
+    </div>	
+</div>
+<div class="c"></div>
+
+                <div class="panel pos-a">
+                    <div class="grid grid-pad">
+                        <div class="col-8-12 tab-col-1-2 hide-on-mobile">
+                             <div class="wc-lable">Học Tiếng Nhật cùng SANKO - Du học Nhật Bản cùng SANKO</div>&nbsp;
+                        </div>
+                        <div class="col-4-12 tab-col-1-2 mobile-col-1-1">
+                             <div class="btn-dangky" style="float:right">
+                                <a href="http://www.nhatngusanko.com/dang-ky-tuyen.html"><i aria-hidden="true" class="fa fa-envelope-o"></i> ĐĂNG KÝ KHÓA HỌC</a>
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+	<div class="c30"></div>
+<div class="grid">
+
+	<div class="flex-container flex-space-between">
+    	<div class="cell-1-2 mobile-cell-1-1">
+            	<div style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;"><iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/YKwLEfwC1mA" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" width="640"></iframe></div>
+        </div>
+        <div class="cell-1-2 mobile-cell-1-1">
+            <div>
+            	<h1><b><big>Về chúng tôi</b></big></h1>
+                <div><div style="text-align: justify;"><span style="font-size:16px;">Tập đo&agrave;n <strong>Sanko Gakuen Houjin (SGH)</strong> l&agrave; tập đo&agrave;n gi&aacute;o dục h&agrave;ng đầu tại Nhật Bản, với 60 trường trung học chuy&ecirc;n nghiệp, trường dạy nghề, cao đẳng, đại học tr&ecirc;n to&agrave;n quốc, trở th&agrave;nh mạng lưới đ&agrave;o tạo đội ngũ chuy&ecirc;n gia, học vi&ecirc;n l&agrave;nh nghề trong nhiều lĩnh vực kh&aacute;c nhau. Với t&acirc;m niệm gi&aacute;o dục &ldquo;<strong><em>Sự h&ograve;a hợp của t&acirc;m hồn v&agrave; kỹ năng&rdquo;</em></strong>, SGH sẽ lu&ocirc;n đồng h&agrave;nh c&ugrave;ng học, c&ugrave;ng trưởng th&agrave;nh v&agrave; từng bước biến giấc mơ của bạn th&agrave;nh hiện thực.</span></div>
+<br />
+<span style="font-size:16px;"><strong>Trung t&acirc;m Nhật ngữ SANKO Việt Nam</strong> <strong>(Sanko Japanese Language Center Việt Nam - SJC)</strong> l&agrave; trung t&acirc;m Nhật ngữ đầu ti&ecirc;n tại Việt Nam thuộc tập đo&agrave;n Sanko Gakuen Houjin (SGH), với sứ mệnh mang đến tri thức về tiếng Nhật cũng như văn h&oacute;a Nhật Bản cho người Việt Nam n&oacute;i chung v&agrave; cho sinh vi&ecirc;n Việt Nam n&oacute;i ri&ecirc;ng.</span></div>
+                <div class="c15"></div>
+                <a href="http://www.nhatngusanko.com/gioi-thieu-trang-chu/ve-chung-toi.html" class="btn-detail-info-home">Chi tiết <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+            </div>
+        </div>
+    </div>
+    	<div class="c30"></div>
+</div>
+
+<div class="grid">
+	
+	
+	
+	<h2 class="title-home"><a href="http://www.nhatngusanko.com/lich-khai-giang/">Lịch khai giảng</a></h2>
+    <div class="c15"></div>
+	
+	
+    <table width="100%" border="0" cellspacing="0" cellpadding="5" class="table-list">
+      <tr>
+        <th align="left">Tên khóa học</th>
+        <th width="15%">Lịch học</th>
+        <th width="20%">Thời gian học</th>
+        <th width="12%">Khai giảng</th>
+        <th width="20%">Học phí</th>
+      </tr>
+      <tr>
+        <td><a href="http://www.nhatngusanko.com/tieng-nhat-can-ban/tieng-nhat-n5.html"> <b><big>TIẾNG NHẬT N5 - SC1, SC2, SC3  </a> </td>
+        <td align="center"><p><b>Thứ 2, Thứ 4, Thứ 6</b></p> <p>08h00 – 09h30</p> <p>15h00 – 16h30</p> <p>18h00 – 19h30</p> <p><hr></p> <p><b>Thứ 3, Thứ 5</b></p> <p>08h00 – 10h15</p> <p>15h00 – 17h15<p> 18h00 – 20h15</td>
+        <td align="center">2 tháng/khóa x 3 (6 tháng)</td>
+        <td align="center">18/01/2019</td>
+        <td align="right">Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</td>
+      </tr>
+      <tr>
+        <td><a href="http://www.nhatngusanko.com/tieng-nhat-can-ban/tieng-nhat-n4.html"> <b><big>TIẾNG NHẬT N4 - SC1, SC2 </a> </td>
+        <td align="center"><p><b>Thứ 2, Thứ 4, Thứ 6</p></b> <p>08h00 – 10h00</p> <p>15h00 – 17h00</p> <p>18h00 – 20h00</p> <p><hr></p> <p><b>Thứ 3, Thứ 5</b></p> <p>08h00 – 11h00</p> <p>15h00 – 18h00</p> <p>18h00 – 21h00</p></td>
+        <td align="center">2 tháng/khóa x 2 (4 tháng)</td>
+        <td align="center">18/01/2019</td>
+        <td align="right"><p><em>Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</p></td>
+      </tr>
+      <tr>
+        <td><a href="http://www.nhatngusanko.com/tieng-nhat-can-ban/tieng-nhat-n3.html"> <b><big>TIẾNG NHẬT N3 - TC1, TC2 </a> </td>
+        <td align="center"><p><b>Thứ 2, Thứ 4, Thứ 6</b></p> <p>08h00 – 10h00</p> <p>15h00 – 17h00</p> <p>18h00 – 20h00</p> <p><hr></p> <p><b>Thứ 3, Thứ 5</b></p> <p>08h00 – 11h00</p> <p>15h00 – 18h00</p><p> 18h00 – 21h00</p></td>
+        <td align="center">1,5 tháng/khóa x 2 (3 tháng)</td>
+        <td align="center">18/01/2019</td>
+        <td align="right"><p>Giáo viên người Nhật vào các giờ nghe - nói</p> <p><em>Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</p</td>
+      </tr>
+      <tr>
+        <td><a href="http://www.nhatngusanko.com/tieng-nhat-can-ban/tieng-nhat-n2.html"> <b><big>TIẾNG NHẬT N2 - CC1, CC2 </a> </td>
+        <td align="center"><p><b>Thứ 2, Thứ 4, Thứ 6</b> <p>08h00 – 10h00</p> <p>15h00 – 17h00</p> <p>18h00 – 20h00</p> <p><hr></p> <p><b>Thứ 3, Thứ 5</b></p> <p>08h00 – 11h00</p> <p>15h00 – 18h00</p> <p>18h00 – 21h00</p></td>
+        <td align="center">1,5 tháng/khóa x 2 (3 tháng)</td>
+        <td align="center">18/01/2019</td>
+        <td align="right"><p>Giáo viên người Nhật vào các giờ nghe -nói</p> <p><em>Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</p></td>
+      </tr>
+      <tr>
+        <td><a href="http://www.nhatngusanko.com/nhan-vien-van-phong/luyen-thi-jlpt-n4.html"> <b><big>LUYỆN THI JLPT N4 </a> </td>
+        <td align="center"><p><b>Thứ 2, Thứ 4, Thứ 6</b></p> <p>18h00 – 19h30</p> <p><hr></p> <p><b>Thứ 3, Thứ 5</b></p> <p>18h00 – 20h15</p></td>
+        <td align="center">1 tháng</td>
+        <td align="center">01/05/2019</td>
+        <td align="right"><p></p> <p><em>Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</td>
+      </tr>
+      <tr>
+        <td><a href="http://www.nhatngusanko.com/nhan-vien-van-phong/luyen-thi-jlpt-n3.html"> <b><big>LUYỆN THI JLPT N3  </a> </td>
+        <td align="center"><p><b>Thứ 2, Thứ 4, Thứ 6</b></p> <p>18h00 – 19h30</p></td>
+        <td align="center">2 tháng</td>
+        <td align="center">01/05/2019</td>
+        <td align="right"><p></p> <p>100% giáo viên người Nhật</p> <p><em>Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</td>
+      </tr>
+      <tr>
+        <td><a href="http://www.nhatngusanko.com/nhan-vien-van-phong/luyen-thi-jlpt-n2.html"> <b><big>LUYỆN THI JLPT N2 </a> </td>
+        <td align="center"><p><b>Thứ 3, Thứ 5</b></p> <p>18h00 – 20h15</p></td>
+        <td align="center">2 tháng</td>
+        <td align="center">01/05/2019</td>
+        <td align="right"><p></p> <p>100% giáo viên người Nhật</p> <p><em> Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</td>
+      </tr>
+      <tr>
+        <td><a href="http://www.nhatngusanko.com/xuat-khau-lao-dong/tieng-nhat-cho-tre-em.html"> <b><big>KODOMO - Tiếng Nhật cho trẻ em </a> </td>
+        <td align="center"><p><b>Thứ Hai và Thứ Tư</b></p> <p>18h00 – 19h30</p> <p><hr></p> <p><b>Thứ Ba và Thứ Năm</b></p> <p>18h00 – 19h30</p> <p><hr></p> <p><b>Thứ Bảy</b></p> <p>08h00 – 11h00</p></td>
+        <td align="center">3 tháng</td>
+        <td align="center">18/02/2019</td>
+        <td align="right"><p>Giảm <ins>10/15/20%</ins> học phí khi đăng ký nhóm <ins>2/3/4</ins> bé trở lên</p>  <p><q><em></q></p> <p>Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</p></td>
+      </tr>
+      <tr>
+        <td><a href="http://www.nhatngusanko.com/tieng-nhat-can-ban/tieng-nhat-cho-doanh-nghiep.html"> <b><big>TIẾNG NHẬT CHO DOANH NGHIỆP </a> </td>
+        <td align="center"><p>Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</p></td>
+        <td align="center">Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</td>
+        <td align="center">17/01/2019</td>
+        <td align="right">Liên hệ <b>0903 308 962</b><br> để biết thêm chi tiết</td>
+      </tr>
+	
+    </table>
+	<div class="btn-dangky" align="center">
+      <a href="http://www.nhatngusanko.com/dang-ky-tuyen.html"><i aria-hidden="true" class="fa fa-envelope-o"></i> ĐĂNG KÝ KHÓA HỌC</a>
+    </div>	
+	
+	
+    <div class="c30"></div>
+    
+</div>
+<div class="box-giangvien" style="min-height:200px;">
+	<div class="grid" style="position:relative">
+    	<div class="c30"></div>
+    	<h2 class="title-home"><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/" style="color:#FFF">Đội ngũ giáo viên và nhân viên</a></h2>
+        <div class="c20"></div>
+        <a href="flexslider-icon.svg#" class="giangvien-prev"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i></a>
+        <a href="flexslider-icon.svg#" class="giangvien-next"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a>
+        
+        <div class="swiper-container" id="article-home">
+        	<div class="swiper-wrapper">
+                <div class="swiper-slide">
+                	<a href="http://www.nhatngusanko.com/giang-vien-dao-tao/hori-mochio.html"><div class="image-article" style="background:url(../../temp/-uploaded-_thumbs_32293369_410298366107894_5677318218323066880_o_cr_130x130.jpg) no-repeat center"></div></a>
+                    <div class="article-name-home"><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/hori-mochio.html">Hori Mochio</a></div>
+                    <div style="color:#FFF">T&iacute;ch lũy nhiều năm kinh nghiệm giảng dạy khi l&agrave; Gi&aacute;o&nbsp;...</div>
+                </div>
+                <div class="swiper-slide">
+                	<a href="http://www.nhatngusanko.com/giang-vien-dao-tao/pham-thi-huong-duyen.html"><div class="image-article" style="background:url(../../temp/-uploaded-GV_11990396_10207751423922768_5406826675092186385_n_cr_130x130.jpg) no-repeat center"></div></a>
+                    <div class="article-name-home"><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/pham-thi-huong-duyen.html">Phạm Thị Hương Duyên</a></div>
+                    <div style="color:#FFF">Tốt nghiệp Đại học Ngoại ngữ H&agrave; Nội - Khoa Tiếng&nbsp;...</div>
+                </div>
+                <div class="swiper-slide">
+                	<a href="http://www.nhatngusanko.com/giang-vien-dao-tao/nguyen-tien-phuc.html"><div class="image-article" style="background:url(../../temp/-uploaded-GV_Phuc_cr_130x130.png) no-repeat center"></div></a>
+                    <div class="article-name-home"><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/nguyen-tien-phuc.html">Nguyễn Tiến Phúc</a></div>
+                    <div style="color:#FFF">Tốt nghiệp Đại học Tsukuba
+Hơn 2 năm du học tại Nhật&nbsp;...</div>
+                </div>
+                <div class="swiper-slide">
+                	<a href="http://www.nhatngusanko.com/giang-vien-dao-tao/chung-tuyet-nga.html"><div class="image-article" style="background:url(../../temp/-uploaded-GV_Nga_cr_130x130.jpg) no-repeat center"></div></a>
+                    <div class="article-name-home"><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/chung-tuyet-nga.html">Chung Tuyết Nga</a></div>
+                    <div style="color:#FFF">Từng du học&nbsp;tại Trường Đại học Quốc tế Osaka, Nhật Bản
+Hiện&nbsp;...</div>
+                </div>
+                <div class="swiper-slide">
+                	<a href="http://www.nhatngusanko.com/giang-vien-dao-tao/vuong-thi-huyen.html"><div class="image-article" style="background:url(../../temp/-uploaded-GV_Huyen_cr_130x130.JPG) no-repeat center"></div></a>
+                    <div class="article-name-home"><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/vuong-thi-huyen.html">Vương Thị Huyền</a></div>
+                    <div style="color:#FFF">Tốt nghiệp Đại học Kita Kyushu
+
+Hơn 7 năm học tập&nbsp;tại&nbsp;Nhật Bản</div>
+                </div>
+                <div class="swiper-slide">
+                	<a href="http://www.nhatngusanko.com/giang-vien-dao-tao/nguyen-thi-thu-phuong.html"><div class="image-article" style="background:url(../../temp/-uploaded-_thumbs_d2b78a6d91c57d9b24d4_cr_130x130.jpg) no-repeat center"></div></a>
+                    <div class="article-name-home"><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/nguyen-thi-thu-phuong.html">Nguyễn Thị Thu Phương</a></div>
+                    <div style="color:#FFF">Tốt nghi&ecirc;p Đại học Kinh Tế Quốc D&acirc;n chuy&ecirc;n ng&agrave;nh QTKD</div>
+                </div>
+                <div class="swiper-slide">
+                	<a href="http://www.nhatngusanko.com/giang-vien-dao-tao/truong-thi-thanh-thao.html"><div class="image-article" style="background:url(../../temp/-uploaded-GV_Lynn_cr_130x130.JPG) no-repeat center"></div></a>
+                    <div class="article-name-home"><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/truong-thi-thanh-thao.html">Trương Thị Thanh Thảo</a></div>
+                    <div style="color:#FFF">Tốt nghiệp Đại học Khoa học X&atilde; hội v&agrave; Nh&acirc;n văn&nbsp;...</div>
+                </div>
+                <div class="swiper-slide">
+                	<a href="http://www.nhatngusanko.com/giang-vien-dao-tao/dang-thi-hai-hanh.html"><div class="image-article" style="background:url(../../temp/-uploaded-_thumbs_IMG_3456_cr_130x130.JPG) no-repeat center"></div></a>
+                    <div class="article-name-home"><a href="http://www.nhatngusanko.com/giang-vien-dao-tao/dang-thi-hai-hanh.html">Đặng Thị Hải Hạnh</a></div>
+                    <div style="color:#FFF">Đ&atilde; sống v&agrave; l&agrave;m việc tại Nhật hơn 1 năm.
+Tốt nghiệp&nbsp;...</div>
+                </div>
+            </div>
+        </div>
+         <script>
+			var swiper = new Swiper('#article-home', {
+				pagination: '',
+				slidesPerView: 3,
+				paginationClickable: true,
+				spaceBetween: 30,
+				simulateTouch:false,
+				nextButton:'.giangvien-next',
+				prevButton:'.giangvien-prev',
+				breakpoints: {
+				320: {
+				  slidesPerView: 1,
+				  spaceBetween: 20
+				},
+				480: {
+				  slidesPerView: 1,
+				  spaceBetween: 20
+				},
+				768: {
+				  slidesPerView: 2,
+				  spaceBetween: 20
+				}
+				
+				
+			  }
+				
+			});
+        </script>
+        <div class="c30"></div>
+    </div>
+</div>
+<div class="c30"></div>
+<div class="grid">
+	<div class="flex-container flex-space-between">
+    	<div class="cell-2-3 mobile-cell-1-1 tab-cell-1-1">
+        	<h2 class="title-home"><a href="http://www.nhatngusanko.com/-1-2-3-4-5-6/">日系企業の皆様へ </a></h2>
+            <div class="c15"></div>
+            <div class="flex-container flex-space-between">
+	            <div class="cell-1-3 mobile-cell-1-1 news-home-border margin-bottom-20">
+                	<div class="image-news-box"><a href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8-9/c%03%19c%03%08c%03%0Ac%03%20h*%1Eh,%1Be:'"><div class="datebox hide-on-mobile"><div class="date">28</div><div class="month">02</div></div><img src="../../temp/-uploaded-_thumbs-Files_lop&#32;tv_cr_320x227.png" alt="ベトナム語講座" width="100%"></a></div>
+                    <div style="padding:15px;">
+	                    <h3 style="padding-bottom:5px;" class="news-name-home"><a href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8-9/c%03%19c%03%08c%03%0Ac%03%20h*%1Eh,%1Be:'">ベトナム語講座</a></h3>
+                        
+    	                <div style="padding-bottom:5px;" class="hide-on-mobile">ネイティブ教師によるレッスン！
+全教員が日本語での会話もできるので安心です！
+&nbsp;</div>
+                        
+                        <div>
+                        	<a href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8-9/c%03%19c%03%08c%03%0Ac%03%20h*%1Eh,%1Be:'" class="btn-news-detail-home">Chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+	            <div class="cell-1-3 mobile-cell-1-1 news-home-border margin-bottom-20">
+                	<div class="image-news-box"><a href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8/lop-hoc-doanh-nghiep"><div class="datebox hide-on-mobile"><div class="date">09</div><div class="month">01</div></div><img src="../../temp/-uploaded-_thumbs-Files_hinh_cr_320x227.JPG" alt="訪問授業" width="100%"></a></div>
+                    <div style="padding:15px;">
+	                    <h3 style="padding-bottom:5px;" class="news-name-home"><a href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8/lop-hoc-doanh-nghiep">訪問授業</a></h3>
+                        
+    	                <div style="padding-bottom:5px;" class="hide-on-mobile">企業様のご要望に合わせて、訪問授業をご提案・ご提供いたします。</div>
+                        
+                        <div>
+                        	<a href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8/lop-hoc-doanh-nghiep" class="btn-news-detail-home">Chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mobile-break c20"></div>
+        </div>
+    	<div class="cell-2-3 mobile-cell-1-1 tab-cell-1-1">
+        	<h2 class="title-home"><a href="http://www.nhatngusanko.com/tin-tuc-moi-1/">Tin tức và sự kiện mới</a></h2>
+            <div class="c15"></div>
+            <div class="flex-container flex-space-between">
+	            <div class="cell-1-3 mobile-cell-1-1 news-home-border margin-bottom-20">
+                	<div class="image-news-box"><a href="http://www.nhatngusanko.com/su-kien-1-2/luyen-thi-jlpt-n4-n3-n2-cung-sanko.html"><div class="datebox hide-on-mobile"><div class="date">23</div><div class="month">01</div></div><img src="../../temp/-uploaded-_thumbs_Banner&#32;JLPT&#32;8.2018&#32;(thay&#32;Hori)_cr_320x227.jpg" alt="<b><big>Luyện thi JLPT N4, N3, N2 cùng Sanko</b></big>" width="100%"></a></div>
+                    <div style="padding:15px;">
+	                    <h3 style="padding-bottom:5px;" class="news-name-home"><a href="http://www.nhatngusanko.com/su-kien-1-2/luyen-thi-jlpt-n4-n3-n2-cung-sanko.html"><b><big>Luyện thi JLPT N4, N3, N2 cùng Sanko</b></big></a></h3>
+                        
+    	                <div style="padding-bottom:5px;" class="hide-on-mobile">☘🌸🎵&nbsp;KH&Oacute;A LUYỆN THI JLPT N4, N3, N2🎵🌸☘&nbsp;
+✨&nbsp;📝&nbsp;100% học vi&ecirc;n h&agrave;i l&ograve;ng về Kh&oacute;a học Luyện thi&nbsp;...</div>
+                        
+                        <div>
+                        	<a href="http://www.nhatngusanko.com/su-kien-1-2/luyen-thi-jlpt-n4-n3-n2-cung-sanko.html" class="btn-news-detail-home">Chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+	            <div class="cell-1-3 mobile-cell-1-1 news-home-border margin-bottom-20">
+                	<div class="image-news-box"><a href="http://www.nhatngusanko.com/su-kien-1-2/khai-giang-khoa-hoc-thang-12.html"><div class="datebox hide-on-mobile"><div class="date">08</div><div class="month">05</div></div><img src="../../temp/-uploaded-_thumbs_201611illust-head1_cr_320x227.jpg" alt="<b><big>Khai giảng khóa học tháng 12</b></big>" width="100%"></a></div>
+                    <div style="padding:15px;">
+	                    <h3 style="padding-bottom:5px;" class="news-name-home"><a href="http://www.nhatngusanko.com/su-kien-1-2/khai-giang-khoa-hoc-thang-12.html"><b><big>Khai giảng khóa học tháng 12</b></big></a></h3>
+                        
+    	                <div style="padding-bottom:5px;" class="hide-on-mobile">🎯🎯&nbsp;KHAI GIẢNG KH&Oacute;A HỌC TH&Aacute;NG 12&nbsp;🎯🎯
+🎋&nbsp;Kh&oacute;a Tiếng Nhật cơ bản N5 - 12.12.2018&nbsp;🎉</div>
+                        
+                        <div>
+                        	<a href="http://www.nhatngusanko.com/su-kien-1-2/khai-giang-khoa-hoc-thang-12.html" class="btn-news-detail-home">Chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+	            <div class="cell-1-3 mobile-cell-1-1 news-home-border margin-bottom-20">
+                	<div class="image-news-box"><a href="http://www.nhatngusanko.com/tin-tuc-moi-1/hoc-tieng-nhat-co-ban.html"><div class="datebox hide-on-mobile"><div class="date">08</div><div class="month">05</div></div><img src="../../temp/-uploaded-_thumbs_HOCCUNGNHATNGUSANKO_cr_320x227.png" alt="<b><big>HỌC TIẾNG NHẬT CÙNG SANKO</b></big>" width="100%"></a></div>
+                    <div style="padding:15px;">
+	                    <h3 style="padding-bottom:5px;" class="news-name-home"><a href="http://www.nhatngusanko.com/tin-tuc-moi-1/hoc-tieng-nhat-co-ban.html"><b><big>HỌC TIẾNG NHẬT CÙNG SANKO</b></big></a></h3>
+                        
+    	                <div style="padding-bottom:5px;" class="hide-on-mobile"></div>
+                        
+                        <div>
+                        	<a href="http://www.nhatngusanko.com/tin-tuc-moi-1/hoc-tieng-nhat-co-ban.html" class="btn-news-detail-home">Chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mobile-break c20"></div>
+        </div>
+        <div class="cell-1-3 mobile-cell-1-1 tab-cell-1-1 ">
+        	<h2 class="title-home"><a href="http://www.nhatngusanko.com/hinh-anh/">Hình ảnh</a></h2>
+            <div class="c15"></div>
+            <div class="flex-container flex-space-between">
+            	<div class="photo-cell-1-3" style="background:#EEE;  margin-bottom:15px;"><img src="../../temp/-uploaded-2019-01_IMG_8556_cr_150x140.JPG"  alt="Trao Bằng"  width="100%" style="display:block"></div>
+            	<div class="photo-cell-1-3" style="background:#EEE;  margin-bottom:15px;"><img src="../../temp/-uploaded-2019-01_IMG_8555_cr_150x140.JPG"  alt="Trao Bằng"  width="100%" style="display:block"></div>
+            	<div class="photo-cell-1-3" style="background:#EEE;  margin-bottom:15px;"><img src="../../temp/-uploaded-2019-01_IMG_8561_cr_150x140.JPG"  alt="Trao Bằng"  width="100%" style="display:block"></div>
+            	<div class="photo-cell-1-3" style="background:#EEE;  margin-bottom:15px;"><img src="../../temp/-uploaded-2019-01_IMG_8559_cr_150x140.JPG"  alt="Trao Bằng"  width="100%" style="display:block"></div>
+            	<div class="photo-cell-1-3" style="background:#EEE;  margin-bottom:15px;"><img src="../../temp/-uploaded-2019-01_IMG_8547_cr_150x140.JPG"  alt="Trao Bằng"  width="100%" style="display:block"></div>
+            	<div class="photo-cell-1-3" style="background:#EEE;  margin-bottom:15px;"><img src="../../temp/-uploaded-2019-01_IMG_8544_cr_150x140.JPG"  alt="Trao Bằng"  width="100%" style="display:block"></div>
+            	<div class="photo-cell-1-3" style="background:#EEE;  margin-bottom:15px;"><img src="../../temp/-uploaded-2019-01_IMG_8541_cr_150x140.JPG"  alt="Thùy Dương & Diễm Phương"  width="100%" style="display:block"></div>
+            	<div class="photo-cell-1-3" style="background:#EEE;  margin-bottom:15px;"><img src="../../temp/-uploaded-2019-01_IMG_8540_cr_150x140.JPG"  alt="Thùy Dương & Diễm Phương"  width="100%" style="display:block"></div>
+            	<div class="photo-cell-1-3" style="background:#EEE;  margin-bottom:15px;"><img src="../../temp/-uploaded-2019-01_IMG_8533_cr_150x140.JPG"  alt="Quỳnh Anh"  width="100%" style="display:block"></div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c30"></div>
+
+<div class="c"></div>
+<div class="footer">
+  <div class="hd-footer">
+    <div class="grid">
+      <div class="cell-1-2 tab-cell-1-1 mobile-cell-1-1 copyright">
+        <div>Copyright 2016&nbsp;&copy; SANKO GAKUEN</div>
+      </div>
+      <div class="cell-1-2 tab-cell-1-1 mobile-cell-1-1">
+      		<div class="smo-footer" >
+            	<a href="https://www.facebook.com/NhatnguSANKOVietnam/" class="fa fa-facebook"></a>
+                <a href="flexslider-icon.svg" class="fa fa-twitter"></a>
+                <a href="flexslider-icon.svg" class="fa fa-pinterest"></a>
+                <a href="flexslider-icon.svg" class="fa fa-linkedin"></a>
+            </div>
+      </div>
+      
+    </div>
+  </div>
+  <div class="c"></div>
+  <div class="grid">
+  	<div class="flex-container flex-space-between">
+	    
+		
+		<div class="cell-foot-1-4 mobile-cell-1-1 tab-cell-1-1 margin-bottom-20 " style="color:#FFF">
+			<div class="title-footer">Bản đồ</div>
+			<div class="c10"></div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.1227965065473!2d106.73396431435076!3d10.80190599230427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175261096e55de9%3A0x97f86613fa6e01af!2zVFJVTkcgVMOCTSBOSOG6rFQgTkfhu64gU0FOS08gVknhu4ZUIE5BTQ!5e0!3m2!1svi!2s!4v1523852663299" width="100%" height="100" frameborder="0" style="border:0" allowfullscreen></iframe>
+		
+		</div>
+		
+		<div class="cell-foot-1-4 mobile-cell-1-1 tab-cell-1-1 margin-bottom-20 " style="color:#FFF">
+		
+		<div class="title-footer">TRUNG TÂM NHẬT NGỮ SANKO VIỆT NAM</div>
+		<div class="c10"></div>
+		
+		<span style="font-size:14px;"><span style="line-height: 20.8px;"><strong>Địa chỉ:</strong> Lầu 3, T&ograve;a nh&agrave; Phụ Nữ, số 20, Nguyễn Đăng Giai, P.Thảo Điền, Q2, TP HCM.</span><br style="line-height: 20.8px;" />
+<span style="line-height: 20.8px;"><strong>Điện thoại:</strong> 028&nbsp;3744 5217 &nbsp;/ &nbsp;028 3744 5218<br />
+<strong>Hotline</strong>: 0903 308 962</span></span>
+		
+		</div>
+		
+		
+		<div class="cell-foot-1-4 mobile-cell-1-1 tab-cell-1-1 margin-bottom-20 " style="color:#FFF">
+			<div class="title-footer"><a href="flexslider-icon.svg">Website Sanko</a></div>
+			
+				<div class="c10"></div>
+				<div class="flex-container flex-space-between">
+					<div class="cell-1-3">
+					<a href="http://tokyobeauty.vn"><img src="../../uploaded/Logo/anh-1.jpg" width="100%"  alt="Trung tâm dạy nghề Tokyo Beauty Art"  style="display:block" ></a>
+					
+					</div>
+					<div class="cell-1-3">
+					<a href="http://www.sanko.ac.jp/japanese/vi/"><img src="../../uploaded/Logo/anh-2.jpg" width="100%"  alt="TRUNG TÂM NHẬT NGỮ SANKO TOKYO"  style="display:block" ></a>
+					
+					</div>
+					<div class="cell-1-3">
+					<a href="https://iconicjob.vn/"><img src="../../uploaded/Logo/737.png" width="100%"  alt="Trường Sanko Nhật Bản"  style="display:block" ></a>
+					
+					</div>
+			</div>
+			
+			
+		
+		</div>
+		
+		<div class="cell-foot-1-4 mobile-cell-1-1 tab-cell-1-1 margin-bottom-20 " style="color:#FFF">
+		<div class="title-footer">Fanpage</div>
+		<div class="c10"></div>
+		
+		<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNhatnguSANKOVietnam%2F&tabs=timeline&width=280&height=96&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=119722755203098" width="280" height="96" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+		
+		</div>
+		
+    </div>
+	</div>
+</div>
+
+</div>
+</div>
+<div id="button-btt"> <a href="flexslider-icon.svg#"><img src="../../images/back_to_top.png"/></a> </div>
+
+
+<nav id="menu">
+    <ul>
+        <li><a href="http://www.nhatngusanko.com/gioi-thieu/">Giới thiệu</a>
+        <li><a  href="http://www.nhatngusanko.com/gioi-thieu-cong-ty/">-- Giới thiệu công ty</a>
+        <li><a  href="http://www.nhatngusanko.com/gioi-thieu-trung-tam/">-- Giới thiệu trung tâm</a>
+        <li><a  href="http://www.nhatngusanko.com/co-so-vat-chat-1/">-- Cơ sở vật chất</a>
+        <li><a  href="http://www.nhatngusanko.com/giang-vien-dao-tao/">-- Đội ngũ giáo viên và nhân viên</a>
+        <li><a  href="http://www.nhatngusanko.com/cam-nhan-hoc-vien/">-- Cảm nhận học viên</a>
+        </li>
+        <li><a href="http://www.nhatngusanko.com/lich-khai-giang/">Lịch khai giảng</a>
+        </li>
+        <li><a href="http://www.nhatngusanko.com/chuong-trinh-dao-tao-1/">Chương trình đào tạo</a>
+        <li><a  href="http://www.nhatngusanko.com/tieng-nhat-can-ban/">-- Tiếng Nhật căn bản</a>
+        <li><a  href="http://www.nhatngusanko.com/du-hoc-sinh/">-- Du học sinh</a>
+        <li><a  href="http://www.nhatngusanko.com/xuat-khau-lao-dong/">-- Tiếng Nhật cho trẻ em </a>
+        <li><a  href="http://www.nhatngusanko.com/nhan-vien-van-phong/">-- Luyện thi JLPT</a>
+        </li>
+        <li><a href="http://www.nhatngusanko.com/-1-2-3-4-5-6/">日系企業の皆様へ </a>
+        <li><a  href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8/">-- 出張授業</a>
+        <li><a  href="http://www.nhatngusanko.com/-1-2-3-4-5-6-7-8-9/">-- ベトナム語講座 </a>
+        </li>
+        <li><a href="http://www.nhatngusanko.com/tin-tuc-su-kien/">Tin tức sự kiện</a>
+        <li><a  href="http://www.nhatngusanko.com/su-kien-1-2/">-- Học Tiếng Nhật cùng SANKO</a>
+        <li><a  href="http://www.nhatngusanko.com/tuyen-dung-1/">-- Du học Tokyo cùng SANKO</a>
+        </li>
+        <li><a href="http://www.nhatngusanko.com/kham-pha-nhat-ban/">Khám phá Nhật Bản</a>
+        <li><a  href="http://www.nhatngusanko.com/van-hoa-nhat/">-- Văn hóa Nhật Bản</a>
+        <li><a  href="http://www.nhatngusanko.com/thong-tin-nhat-ban/">-- Thông tin Nhật Bản</a>
+        <li><a  href="http://www.nhatngusanko.com/bbigkho-tu-vungngu-phap-tieng-nhat/">-- <b<<big>Kho từ vựng/ngữ pháp tiếng Nhật</a>
+        </li>
+        <li><a href="http://www.nhatngusanko.com/thu-vien-1-2/">Thư viện</a>
+        <li><a  href="http://www.nhatngusanko.com/videos/">-- Videos</a>
+        <li><a  href="http://www.nhatngusanko.com/hinh-anh/">-- Hình ảnh</a>
+        </li>
+        <li><a href="http://www.nhatngusanko.com/cam-nhan-hoc-vien/">Cảm nhận học viên</a>
+        </li>
+        <li><a href="http://www.nhatngusanko.com/thu-vien-1-2/">Thư viện</a>
+        </li>
+        <li><a href="http://www.nhatngusanko.com/lien-he/">Liên hệ</a>
+        </li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        jQuery("nav#menu").mmenu({
+            offCanvas: {
+                position: "left",
+                zposition: "front"
+            }
+        });
+    });
+	
+	$(function() {
+            $('.countcart').text('(0)');
+    });
+	
+</script> 
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-522d562834f75590"></script>
+</body></html>
